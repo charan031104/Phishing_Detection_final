@@ -1,0 +1,4 @@
+﻿# Known phishing URLs database
+http://www.goog1e.com
+http://paypal-security-alert.com
+https://apple-id-verification.tk
